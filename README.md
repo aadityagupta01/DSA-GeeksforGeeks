@@ -1,11 +1,8 @@
-# DSA-GeeksforGeeks
-Data structures and algorithms solutions from GeeksforGeeks in Python 3.
-
 <div align="center">
 
-# 🚀 My DSA Journey on GeeksforGeeks
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DSA%20with%20GeeksforGeeks&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-### *"Consistency beats intensity."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Consistency+beats+intensity.;242+problems+solved+%7C+72-day+streak;Building+strong+DSA+fundamentals+one+day+at+a+time." />
 
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-242-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Coding Score](https://img.shields.io/badge/Coding%20Score-895-blue?style=for-the-badge)
@@ -25,30 +22,6 @@ Numbers built one solve at a time — not overnight, not by chance. This repo is
 </p>
 
 ---
-
-## 📊 Snapshot Before This Repo
-
-<div align="center">
-
-| 🧩 Metric | 📈 Value |
-|:---|:---:|
-| Problems Solved | **242** |
-| Coding Score | **895** |
-| Institute Rank | **#151** |
-| Longest Streak | **72 Days** |
-| POTDs Solved | **72** |
-
-</div>
-
-### 🎯 Difficulty Breakdown
-
-- 🟢 **Basic** — 23 &nbsp; `██████░░░░░░░░░░░░░░░░░░░░░░░░`
-- 🟩 **Easy** — 58 &nbsp; `████████████████░░░░░░░░░░░░░░`
-- 🟠 **Medium** — 130 &nbsp; `█████████████████████████████░`
-- 🔴 **Hard** — 31 &nbsp; `█████████░░░░░░░░░░░░░░░░░░░░░`
-
----
-
 ## 📌 Why This Repo Exists
 
 <details>
@@ -63,19 +36,6 @@ Numbers built one solve at a time — not overnight, not by chance. This repo is
 - 🧗 To prove that growth compounds — slowly, then all at once
 
 </details>
-
-<details>
-<summary>🛠️ What you'll find in this repo</summary>
-
-<br>
-
-- ✅ Topic-wise solved problems (Arrays, Strings, Trees, Graphs, DP, etc.)
-- 📝 Clean, well-commented solutions
-- 🧩 Notes on approach & complexity for tricky problems
-- 📅 Regular commits reflecting real daily practice
-
-</details>
-
 ---
 
 ## 🌱 Roadmap
@@ -91,13 +51,8 @@ Numbers built one solve at a time — not overnight, not by chance. This repo is
 
 <div align="center">
 
-### 💬 Final Note
-
-*Every problem solved here is a small proof of consistency.*
-*242 problems, a 72-day streak, and a rank of 151 — not because it was easy, but because I kept showing up.*
-
-**This repo continues that habit, one solution at a time. 🚀**
-
 ⭐ *If this journey resonates with you, feel free to star this repo and follow along.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=footer&text=Still%20Solving.%20Still%20Growing.&fontSize=28&fontColor=ffffff&animation=fadeIn&desc=Because%20progress%20never%20really%20stops.&descSize=17&descAlignY=70" />
 
 </div>
